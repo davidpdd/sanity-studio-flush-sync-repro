@@ -28,10 +28,6 @@
     {
       "name": "part:@sanity/desk-tool/structure",
       "path": "./src/deskStructure/index.js"
-    },
-    {
-      "implements": "part:@sanity/base/root",
-      "path": "plugins/sanity-plugin-tutorial/CustomDefaultLayout"
     }
   ]
 }
